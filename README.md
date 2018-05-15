@@ -7,7 +7,7 @@
  
 2) Открыть Git Bash (консоль) в новой папке
  
- ![Alt Text](src/images/img_1.png)
+ ![Alt Text](src/images/git.png)
 
 3) выполнить команду 
  
@@ -15,7 +15,7 @@
 
 4) перейти в папку проекта
 
-    `cd front-end-pro-2018`
+    `cd front-basic-pro-2018`
 
 # Обновление репозитория
 
